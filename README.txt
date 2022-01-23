@@ -1,4 +1,4 @@
-SQL utilizando na criação do banco de dados que foi usado neste programa.
+SQL utilizado na criação do banco de dados que foi usado neste programa.
 Foi utilizando o MySQL.
 
 CREATE DATABASE mylist;
